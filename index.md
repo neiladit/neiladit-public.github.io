@@ -16,6 +16,7 @@ My research interests have varied over the years from Semiconductor devices (InA
 ## Updates
 
 - I am serving on the [Artifact evaluation committee for ASPLOS, 2023](https://sites.google.com/stanford.edu/asplos23aec/committee). [Sep, 2022]
+- I'll be in Seattle visiting [CSE @ University of Washington](https://www.cs.washington.edu/) for the academic year 2022-23. [Aug, 2022]
 - I did a summer internship at the platforms and infrastructure performance team at Google. [May-Aug, 2022]
 - [Our paper]({{ site.url }}/papers/Performance_Left_on_the_Table_An_Evaluation_of_Compiler_Autovectorization_for_RISC-V.pdf) on RISC-V vector compiler performance was published in the [IEEE Micro special issue journal](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9891811&punumber=40). [June, 2022]
 - I passed my thesis proposal (A-exam). [May, 2022]
