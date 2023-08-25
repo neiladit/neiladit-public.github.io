@@ -23,6 +23,10 @@ linkedin_username: neiladit
 twitter_username: neiladit
 github_username:  neiladit
 
+# Mastodon instances
+mastodon:
+  url: https://discuss.systems/@neiladit
+
 # Build settings
 markdown: kramdown
 theme: minima
