@@ -6,15 +6,19 @@ layout: default
 
 ![alt text](images/Neil.jpg)
 
-Hello! I'm a fifth year PhD student at Computer Systems Lab ([CSL](http://www.csl.cornell.edu)), Cornell University. I work with [Prof. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [CAPRA](https://capra.cs.cornell.edu) research group. I work on vector architectures and compilers. I also worked on approximate computing for computer vision applications in the past.
+Hello! I'm a Research Scientist at Meta, in the recommendation system co-design group. I graduated with a PhD from Computer Systems Lab ([CSL](http://www.csl.cornell.edu)), Cornell University. I worked with [Prof. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [CAPRA](https://capra.cs.cornell.edu) research group. My research spanned efficient machine learning, vector architectures and compilers.
 
-I completed my Bachelor's and Master's degree in ECE from [IIT Bombay](http://www.iitb.ac.in) in 2018. I worked with [Prof. Sachin Patkar](https://www.ee.iitb.ac.in/wiki/faculty/patkar) on Accelerating Sparse Matrix Solvers on FPGA for my final project.
+I completed my Bachelor's and Master's degree in ECE from [IIT Bombay](http://www.iitb.ac.in) in 2018. I worked with [Prof. Sachin Patkar](https://www.ee.iitb.ac.in/wiki/faculty/patkar) on Accelerating Sparse Matrix Solvers on FPGA for my thesis.
 
-My research interests have varied over the years from Semiconductor devices (InAs Nanowire FET Modelling) to Machine learning and hardware accelerators. Here is my [CV]({{ site.url }}/docs/CV_Neil.pdf).
+My research interests have varied over the years from Semiconductor devices (InAs Nanowire FET Modelling) to Machine learning and hardware-software co-design. Here is my [CV]({{ site.url }}/docs/CV_Neil.pdf).
 
 
 ## Updates
 
+- I am serving in the Program Committee for ISCA 2025. [Jan, 2025]
+- I joined Meta as a Research Scientist in Menlo Park, CA. [July, 2024]
+- I defended my PhD thesis, [Software-Oriented Hardware Prefetching and Vector Execution]({{ site.url }}/docs/Neil_PhD_thesis.pdf). [June, 2024]
+- I am continuing working at Google as a Student Researcher, with [Akanksha Jain](https://www.cs.utexas.edu/~akanksha/) and [Snehasish Kumar](https://snehasish.net/). [Sep, 2022]
 - I am serving on the [Artifact evaluation committee for ASPLOS, 2023](https://sites.google.com/stanford.edu/asplos23aec/committee). [Sep, 2022]
 - I'll be in Seattle visiting [CSE @ University of Washington](https://www.cs.washington.edu/) for the academic year 2022-23. [Aug, 2022]
 - I did a summer internship in the Platforms and Infrastructure Performance team at Google. [May-Aug, 2022]
