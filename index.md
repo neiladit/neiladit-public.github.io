@@ -6,7 +6,7 @@ layout: default
 
 ![alt text](images/Neil.jpg)
 
-Hello! I'm a Research Scientist at Meta, in the recommendation system co-design group. I graduated with a PhD from Computer Systems Lab ([CSL](http://www.csl.cornell.edu)), Cornell University. I worked with [Prof. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [CAPRA](https://capra.cs.cornell.edu) research group. My research spanned efficient machine learning, vector architectures and compilers.
+Hello! I'm a Research Scientist at Meta, in the AI recommendation system co-design group. I graduated with a PhD from Computer Systems Lab ([CSL](http://www.csl.cornell.edu)), Cornell University. I worked with [Prof. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [CAPRA](https://capra.cs.cornell.edu) research group. My research spanned efficient machine learning, vector architectures and compilers.
 
 I completed my Bachelor's and Master's degree in ECE from [IIT Bombay](http://www.iitb.ac.in) in 2018. I worked with [Prof. Sachin Patkar](https://www.ee.iitb.ac.in/wiki/faculty/patkar) on Accelerating Sparse Matrix Solvers on FPGA for my thesis.
 
