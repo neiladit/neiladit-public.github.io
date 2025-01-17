@@ -15,7 +15,7 @@ My research interests have varied over the years from Semiconductor devices (InA
 
 ## Updates
 
-- I am serving in the Program Committee for ISCA 2025. [Jan, 2025]
+- I am serving on the Program Committee for ISCA 2025. [Jan, 2025]
 - I joined Meta as a Research Scientist in Menlo Park, CA. [July, 2024]
 - I defended my PhD thesis, [Software-Oriented Hardware Prefetching and Vector Execution]({{ site.url }}/docs/Neil_PhD_thesis.pdf). [June, 2024]
 - I am continuing working at Google as a Student Researcher, with [Akanksha Jain](https://www.cs.utexas.edu/~akanksha/) and [Snehasish Kumar](https://snehasish.net/). [Sep, 2022]
