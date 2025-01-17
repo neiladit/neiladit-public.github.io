@@ -4,7 +4,7 @@ layout: default
 <!-- <p><img style="padding: 0 15px; float: left;" src="images/Neil.jpg" alt="alt text" width="400"/></p>
 <p style="margin-top: 20px;"> </p> -->
 
-![alt text](images/Neil.jpg)
+![Neil at UC Berkeley](images/Neil_berkeley.jpg)
 
 Hello! I'm a Research Scientist at Meta, in the AI recommendation system co-design group. I graduated with a PhD from Cornell University, surrounded by brilliant folks at the Computer Systems Lab ([CSL](http://www.csl.cornell.edu)). I worked with [Prof. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [CAPRA](https://capra.cs.cornell.edu) research group. My research spanned efficient machine learning, vector architectures and compilers.
 
