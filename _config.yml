@@ -22,9 +22,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: neiladit
 twitter_username: neiladit
 github_username:  neiladit
-mastodon:
-- username: neiladit
-  instance: discuss.systems
+# mastodon:
+# - username: neiladit
+#   instance: discuss.systems
+
 
 # Build settings
 markdown: kramdown
