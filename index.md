@@ -11,6 +11,7 @@ I completed my Bachelor's and Master's degree in ECE from [IIT Bombay](http://ww
 
 My research interests have varied over the years from Semiconductor devices (InAs Nanowire FET Modelling) to Machine learning and hardware-software co-design. Here is my [CV]({{ site.url }}/docs/CV_Neil.pdf).
 
+Outside academia, I enjoy playing tennis, pickle ball, hiking, running and weightlifting.
 
 ## Updates
 
