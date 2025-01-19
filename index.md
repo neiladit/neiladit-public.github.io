@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<!-- <p><img style="padding: 0 15px; float: left;" src="images/Neil.jpg" alt="alt text" width="400"/></p>
-<p style="margin-top: 20px;"> </p> -->
+
 
 ![Neil at UC Berkeley](images/Neil_berkeley.jpg)
 
