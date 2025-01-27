@@ -1,7 +1,0 @@
-﻿Authors,Title,Publication,Volume,Number,Pages,Year,Publisher
-"Lazarev, Nikita; Adit, Neil; Xiang, Shaojie; Zhang, Zhiru; Delimitrou, Christina; ",Dagger: Towards efficient rpcs in cloud microservices with near-memory reconfigurable nics,IEEE Computer Architecture Letters,19,2,134-138,2020,IEEE
-"Lazarev, Nikita; Xiang, Shaojie; Adit, Neil; Zhang, Zhiru; Delimitrou, Christina; ",Dagger: efficient and fast RPCs in cloud microservices with near-memory reconfigurable NICs,Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems,,,36-51,2021,
-"Buckler, Mark; Adit, Neil; Hu, Yuwei; Zhang, Zhiru; Sampson, Adrian; ",Dense Pruning of Pointwise Convolutions in the Frequency Domain,arXiv preprint arXiv:2109.07707,,,,2021,
-"Bedoukian, Philip; Adit, Neil; Peguero, Edwin; Sampson, Adrian; ",Software-defined vector processing on manycore fabrics,MICRO-54: 54th Annual IEEE/ACM International Symposium on Microarchitecture,,,392-406,2021,
-"Adit, Neil; Sampson, Adrian; ",Performance left on the table: an evaluation of compiler autovectorization for RISC-V,IEEE Micro,42,5,41-48,2022,IEEE
-"Adit, Neil; ",Software-Oriented Hardware Prefetching and Vector Execution,,,,,2024,Cornell University
