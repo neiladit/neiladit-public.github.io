@@ -4,7 +4,7 @@ layout: post
 permalink: /courses/
 title: Courses
 alt-title: Courses
-
+published: false
 ---
 
 Cornell University
